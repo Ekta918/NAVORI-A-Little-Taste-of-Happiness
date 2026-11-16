@@ -21,7 +21,7 @@ Designed with a warm, elegant aesthetic using soft cream, peach, and brown tones
 A combination of minimal layouts, warm colours, elegant typography, and dessert-inspired visuals.
 
 ### 🌐 Live Website
-[Visit NAVORI Website](https://ekta918.github.io/navori/)
+[Visit NAVORI Website](https://ekta918.github.io/NAVORI-A-Little-Taste-of-Happiness/)
 
 ### 📌 Disclaimer
 This is an unofficial fan-made project created for creative and educational purposes. It is not affiliated with, endorsed by, or officially connected to NAVORI or Dunk Natachai. All brand names and respective images belong to their rightful owners.
